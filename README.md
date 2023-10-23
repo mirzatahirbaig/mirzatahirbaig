@@ -21,7 +21,7 @@ I am a Native Android App Developer who is passionate about making robust, moder
 
 I primarily have experience working on the Android,Stripe SDK, AWS, Firebase, MySQL, Parse etc.
 
-🔭 I’m currently working at [Ozoned Digital](https://ozoneddigital.com/) as full stack android developer
+🔭 I’m currently working at [Ozoned Digital](https://ozoneddigital.com/) as Senior Android Developer
 
 -----
 
