@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Native Android App Developer
 
-I am a Native Android App Developer who is passionate about making robust, modern android mobile applications, sdks. With over 3 years of working experience as a Software Engineer.
+I am a Native Android App Developer who is passionate about making robust, modern android mobile applications, sdks. With over 4 years of working experience as a Software Engineer.
 
-I primarily have experience working on the Android,Stripe SDK, AWS, Firebase, MySQL, Parse etc.
+I primarily have experience working on the Android,Stripe SDK,Root Detection, AWS, Firebase, MySQL, Parse etc.
 
 🔭 I’m currently working at [Ozoned Digital](https://ozoneddigital.com/) as Senior Android Developer
 
