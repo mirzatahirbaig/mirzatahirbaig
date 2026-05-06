@@ -15,7 +15,7 @@ I am a **Senior Android Developer** passionate about building robust, modern mob
 ---
 
 ### 💼 Professional Impact & Key Projects
-*I currently lead development efforts at **[Ozoned Digital](https://ozoneddigital.com)**. While the codebases are private, here are the key industry solutions I’ve engineered:*
+*I currently lead development efforts at **[Ozoned Digital](https://ozoneddigital.com)**. While the codebases are private, here are the key industry solutions I've engineered:*
 
 *   **InsurTech Ecosystems:** Developed end-to-end digital insurance platforms including **Insurance Bazaar**, enabling seamless policy acquisition and digital underwriting.
 *   **Telematics Integration:** Built "Pay-As-You-Drive" solutions using GPS and sensor-based SDKs to monitor driving behavior.
@@ -26,10 +26,10 @@ I am a **Senior Android Developer** passionate about building robust, modern mob
 
 ### 📊 GitHub Analytics
 
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&hide=contribs,prs)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig&layout=compact)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&show_icons=true&hide=contribs,prs&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig&layout=compact&theme=radical&langs_count=6"/>
+</div>
 
 ---
 
@@ -38,4 +38,4 @@ I am a **Senior Android Developer** passionate about building robust, modern mob
 
 ---
 
-⚡ **Fun Fact:** I’m obsessed with app security—if it can be rooted or bypassed, I’m probably working on a way to stop it!
+⚡ **Fun Fact:** I'm obsessed with app security—if it can be rooted or bypassed, I'm probably working on a way to stop it!
