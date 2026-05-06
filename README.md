@@ -1,42 +1,39 @@
-# Hey there, I'm Mirza Tahir Baig 👋 👨‍💻!
+# Hey there, I'm Mirza Tahir Baig 👋 👨‍💻
 
-<!--
-**mirzatahirbaig/mirzatahirbaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Senior Android Developer | 5+ Years Experience
+I am a **Senior Android Developer** passionate about building robust, modern mobile applications and secure SDKs. With over **5 years** of experience, I specialize in creating scalable architecture and high-performance solutions for the InsurTech and FinTech sectors.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Expertise
+*   **Languages:** Kotlin, Java, MySQL
+*   **Frameworks/SDKs:** Android Jetpack, Stripe SDK, Firebase, Parse, AWS
+*   **Security:** Root Detection, Secure SDK Development, Data Encryption
+*   **Architecture:** MVVM, Clean Architecture, Dependency Injection (Hilt/Dagger)
+*   **Tools:** Android Studio, Git, CI/CD Pipelines
 
-## Native Android App Developer
+---
 
-I am a Native Android App Developer who is passionate about making robust, modern android mobile applications, sdks. With over 4 years of working experience as a Software Engineer.
+### 💼 Professional Impact & Key Projects
+*I currently lead development efforts at **[Ozoned Digital](https://ozoneddigital.com)**. While the codebases are private, here are the key industry solutions I’ve engineered:*
 
-I primarily have experience working on the Android,Stripe SDK,Root Detection, AWS, Firebase, MySQL, Parse etc.
+*   **InsurTech Ecosystems:** Developed end-to-end digital insurance platforms including **Insurance Bazaar**, enabling seamless policy acquisition and digital underwriting.
+*   **Telematics Integration:** Built "Pay-As-You-Drive" solutions using GPS and sensor-based SDKs to monitor driving behavior.
+*   **Agent Productivity Tools:** Engineered the **J-Force** and **Field App**, automating commission tracking and eliminating manual paperwork for thousands of agents.
+*   **Payment & Security:** Integrated complex **Stripe SDK** flows and developed custom **Root Detection** modules to ensure app integrity in financial environments.
 
-🔭 I’m currently working at [Ozoned Digital](https://ozoneddigital.com/) as Senior Android Developer
+---
 
------
+### 📊 GitHub Activity
+![Tahir's GitHub stats](https://vercel.app)
 
-### 💬 Ask me about anything related to android development on
-* [StackOverFlow](https://stackoverflow.com/users/15241319/mirza-tahir-baig)
-* [Linkedin](https://www.linkedin.com/in/mirzatahirbaig/)
-* [Twitter](https://twitter.com/MirzaTa33457572)
+[![Most Used Languages](https://vercel.app)](https://github.com)
 
-### Top Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,git&perline=3)](https://skillicons.dev)
+---
 
-### Activiy:
+### 💬 Let's Connect
+*   **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/mirzatahirbaig/))
 
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&hide=contribs,prs)
+---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig)](https://github.com/mirzatahirbaig/github-readme-stats)
-
-
+⚡ **Fun Fact:** I’m obsessed with app security—if it can be rooted or bypassed, I’m probably working on a way to stop it!
