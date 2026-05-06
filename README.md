@@ -27,8 +27,9 @@ I am a **Senior Android Developer** passionate about building robust, modern mob
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&show_icons=true&hide=contribs,prs&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig&layout=compact&theme=radical&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&show_icons=true&hide=contribs,prs&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="400" />
 </div>
 
 ---
