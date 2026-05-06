@@ -25,9 +25,9 @@ I am a **Senior Android Developer** passionate about building robust, modern mob
 ---
 
 ### 📊 GitHub Activity
-![Tahir's GitHub stats](https://vercel.app)
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&hide=contribs,prs)
 
-[![Most Used Languages](https://vercel.app)](https://github.com)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig)](https://github.com/mirzatahirbaig/github-readme-stats)
 
 ---
 
