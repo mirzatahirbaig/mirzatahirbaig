@@ -22,15 +22,6 @@ I am a **Senior Android Developer** passionate about building robust, modern mob
 *   **Agent Productivity Tools:** Engineered the **J-Force** and **Field App**, automating commission tracking and eliminating manual paperwork for thousands of agents.
 *   **Payment & Security:** Integrated complex **Stripe SDK** flows and developed custom **Root Detection** modules to ensure app integrity in financial environments.
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzatahirbaig&show_icons=true&hide=contribs,prs&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzatahirbaig&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="400" />
-</div>
 
 ---
 
